@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">初之</title>
     <subtitle type="html">浏览“缠中说禅”更多文章请点击进入缠中说禅</subtitle>
-    <updated>2023-08-15T04:05:36&#43;08:00</updated>
+    <updated>2023-08-15T11:50:38&#43;08:00</updated>
     <id>https://chzh.me/chzhshch-blog/</id>
     <link rel="alternate" type="text/html" href="https://chzh.me/chzhshch-blog/" />
     <link rel="self" type="application/atom&#43;xml" href="https://chzh.me/chzhshch-blog/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>事物就是事物，人只不过是人。</rights>
     <generator uri="https://gohugo.io/" version="0.117.0">Hugo</generator>
         <entry>
-            <title type="text">全球第一博客---缠中说禅/缠中说禅的新浪博客</title>
+            <title type="text">全球第一博客---缠中说禅</title>
             <link rel="alternate" type="text/html" href="https://chzh.me/chzhshch-blog/memo/chzhshch/" />
             <id>https://chzh.me/chzhshch-blog/memo/chzhshch/</id>
-            <updated>2023-08-15T04:02:53&#43;08:00</updated>
+            <updated>2023-08-15T11:15:18&#43;08:00</updated>
             <published>2023-08-08T18:09:00&#43;08:00</published>
             <author>
                     <name>陈歌</name>
